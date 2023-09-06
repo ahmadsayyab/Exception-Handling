@@ -10,6 +10,13 @@ namespace Prc_Exception_Handling
     {
         static void Main(string[] args)
         {
+<<<<<<< Updated upstream
+=======
+            //Exe_1.DiviNumbers();
+
+
+            Exe_2.CallingMethod();
+>>>>>>> Stashed changes
         }
     }
 }
